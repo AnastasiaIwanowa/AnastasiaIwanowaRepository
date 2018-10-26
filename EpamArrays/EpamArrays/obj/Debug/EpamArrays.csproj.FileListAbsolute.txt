@@ -1,0 +1,7 @@
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\bin\Debug\EpamArrays.exe.config
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\bin\Debug\EpamArrays.exe
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\bin\Debug\EpamArrays.pdb
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\obj\Debug\EpamArrays.csprojAssemblyReference.cache
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\obj\Debug\EpamArrays.csproj.CoreCompileInputs.cache
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\obj\Debug\EpamArrays.exe
+C:\Users\Иванова Анастасия\source\repos\EpamArrays\EpamArrays\obj\Debug\EpamArrays.pdb

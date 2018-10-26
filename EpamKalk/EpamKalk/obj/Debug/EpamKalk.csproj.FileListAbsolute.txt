@@ -1,0 +1,7 @@
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\bin\Debug\EpamKalk.exe.config
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\bin\Debug\EpamKalk.exe
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\bin\Debug\EpamKalk.pdb
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\obj\Debug\EpamKalk.csprojAssemblyReference.cache
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\obj\Debug\EpamKalk.csproj.CoreCompileInputs.cache
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\obj\Debug\EpamKalk.exe
+C:\Users\Иванова Анастасия\source\repos\EpamKalk\EpamKalk\obj\Debug\EpamKalk.pdb
