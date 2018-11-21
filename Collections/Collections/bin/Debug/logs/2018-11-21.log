@@ -1,0 +1,10 @@
+2018-11-21 21:08:04.3247 DEBUG debug message
+2018-11-21 21:08:04.4427 INFO info message
+2018-11-21 21:08:04.4557 WARN warn message
+2018-11-21 21:08:04.4557 ERROR error message
+2018-11-21 21:08:04.4777 FATAL fatal message
+2018-11-21 21:41:15.5408 DEBUG debug message
+2018-11-21 21:41:15.6398 INFO info message
+2018-11-21 21:41:15.6568 WARN warn message
+2018-11-21 21:41:15.6777 ERROR error message
+2018-11-21 21:41:15.6777 FATAL fatal message
