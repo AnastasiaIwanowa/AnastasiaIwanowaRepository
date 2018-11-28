@@ -1,1 +1,4 @@
 # AnastasiaIwanowaRepository
+
+
+Проверил. Все верно.
