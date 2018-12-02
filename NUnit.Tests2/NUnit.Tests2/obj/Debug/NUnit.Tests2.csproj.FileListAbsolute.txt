@@ -1,0 +1,11 @@
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csprojAssemblyReference.cache
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csproj.CoreCompileInputs.cache
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\bin\Debug\NUnit.Tests2.dll
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\bin\Debug\NUnit.Tests2.pdb
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\bin\Debug\GeometricFigures.dll
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\bin\Debug\nunit.framework.dll
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\bin\Debug\GeometricFigures.pdb
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\bin\Debug\nunit.framework.xml
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.csproj.CopyComplete
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.dll
+C:\Users\Иванова Анастасия\Desktop\радик\epam\epamNUnit\NUnit.Tests2\NUnit.Tests2\obj\Debug\NUnit.Tests2.pdb
